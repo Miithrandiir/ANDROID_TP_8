@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tp8heban</string>
+    <string name="app_title">Choisissez une image à charger ...</string>
+    <string name="app_lat">Latitude</string>
+    <string name="app_long">Longitude</string>
+    <string name="app_unknown">Inconnue</string>
+    <string name="app_unknown_location">Coordonnées inconnues, impossible de l\'afficher !</string>
+    <string name="app_title_list_near_image_activity">Liste des images selon la distance</string>
+    <string name="app_maximum_range">Borne maximale en kilomètre</string>
+    <string name="app_filtration_title">Filtration des photos par une borne maximale</string>
+    <string name="app_valid">Valider</string>
+    <string name="app_search">Rechercher des photos</string>
+</resources>
